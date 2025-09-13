@@ -42,9 +42,3 @@ The project transforms raw transactional data into business intelligence to enab
 * **Profitability Trend:** Revenue peaks in Dec 2021, showing strong seasonality and promotion opportunities.  
 * **Customer Distribution:** Bars dominate with 50% of customers, followed by Bites (31%) and Other (18%).  
 * **Product Performance:** Certain products achieve high sales with lower margins, while others generate fewer sales but deliver higher profitability.
-  
----
-
-## Conclusion
-This project highlights the scope of a Data Analyst’s role from database management to visualization and storytelling.  It demonstrates how structured analysis can generate actionable insights that deliver measurable business value.  
-
