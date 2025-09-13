@@ -13,10 +13,19 @@ The project transforms raw transactional data into business intelligence to enab
 
 ---
 
-## Tools and Technologies
+## Tech Stack
 - **MySQL Server** – Data querying and preparation  
 - **SQL (awesome_chocolates.sql)** – Core dataset  
 - **Power BI** – Interactive dashboards and reporting  
+
+---
+
+## Project Scope
+- Designed and optimized SQL queries for data preparation
+- Conducted Exploratory and diagnostic analysis  
+- Dashboard design and development in Power BI  
+- Translated analytical findings into actionable business recommendations
+- Supporting business decisions with evidence-based insights
 
 ---
 
@@ -28,32 +37,14 @@ The project transforms raw transactional data into business intelligence to enab
 - Units Sold: 2.90M  
 - Customers: 1.23M  
 
-### Analytical Views
-- Revenue by Country and Region – Performance across Americas, APAC, and Europe  
-- Monthly Revenue Trends – Seasonality and growth insights  
-- Product Profitability vs. Volume – Balancing sales quantity and margins  
-- Customer Segmentation – Distribution across product categories (Bars, Bites, Others)  
-
----
-
-## Data Storytelling Approach
-- KPIs presented upfront for executive decision-making  
-- Regional and product analysis for market prioritization  
-- Trend tracking for forecasting and planning  
-- Customer insights to guide targeted strategies  
-
----
-
-## Analyst Responsibilities
-- Data preparation and SQL querying  
-- Exploratory and diagnostic analysis  
-- Dashboard design and development in Power BI  
-- Translating data into actionable recommendations  
-- Supporting business decisions with evidence-based insights  
-
+### Analytical Insights
+* **Revenue:** India and Australia drive the highest sales; APAC outperforms other regions.  
+* **Profitability Trend:** Revenue peaks in Dec 2021, showing strong seasonality and promotion opportunities.  
+* **Customer Distribution:** Bars dominate with 50% of customers, followed by Bites (31%) and Other (18%).  
+* **Product Performance:** Certain products achieve high sales with lower margins, while others generate fewer sales but deliver higher profitability.
+  
 ---
 
 ## Conclusion
 This project highlights the scope of a Data Analyst’s role from database management to visualization and storytelling.  It demonstrates how structured analysis can generate actionable insights that deliver measurable business value.  
 
----
